@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; I'm currently exploring and learning new technologies.
 - 🎓 &nbsp; Studying **Computer Science** at <a href="https://www.istec.pt/">ISTEC</a>.
-- 💼 &nbsp; Working as **Technical Director** at <a href="https://eclipsenetworks.ltd.uk">Eclipse Networks</a>
+- 💼 &nbsp; Working as **Technical Director** at <a href="https://eclipsenetworks.ltd.uk">Eclipse Networks</a>.
 - 🌱 &nbsp; Learning more about **DevOps**.
 
 <h2> :rocket: &nbsp;My Skills </h3>
@@ -31,10 +31,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-
-**CodeWars Badge**
-
-  ![CodeKata Stats](https://www.codewars.com/users/tomasalves8/badges/large)
 
 <h2> :earth_africa: &nbsp;Where to find me: </h3> 
 
