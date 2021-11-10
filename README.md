@@ -39,3 +39,5 @@
 [![GitHub: tomasalves8]( https://img.shields.io/github/followers/tomasalves8?label=follow&style=social)](https://github.com/tomasalves8)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasalves8&theme=dracula&show_icons=true)
+<br>
+<a href="https://copilot.github.com/"><img src="https://github.githubassets.com/images/icons/copilot/cp-head-square.png" alt="drawing" width="50"/></a>
