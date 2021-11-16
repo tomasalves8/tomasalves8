@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; I'm currently exploring and learning new technologies.
 - 🎓 &nbsp; Studying **Computer Science** at <a href="https://www.istec.pt/">ISTEC</a>.
-- 💼 &nbsp; Working as **Technical Director** at <a href="https://eclipsenetworks.ltd.uk">Eclipse Networks</a>.
+- 💼 &nbsp; Working as **Operations Director** at <a href="https://eclipsenetworks.ltd.uk">Eclipse Networks</a>.
 - 🌱 &nbsp; Learning more about **DevOps**.
 
 <h2> :rocket: &nbsp;My Skills </h3>
