@@ -3,9 +3,10 @@
 
 <h2> :man: &nbsp;About Me</h3>
 
-- 🤔 &nbsp; I'm currently exploring and learning new technologies.
-- 🎓 &nbsp; Studying **Computer Science** at <a href="https://www.istec.pt/">ISTEC</a>.
-- 🌱 &nbsp; Learning more about **DevOps**.
+- 🔐 &nbsp; Working as a **Network & Security Engineer**.
+- 🤖 &nbsp; Passionate about **infrastructure, automation, and cybersecurity**.
+- 🎓 &nbsp; Graduated in **Computer Science** from <a href="https://www.istec.pt/">ISTEC</a>.
+- 📚 &nbsp; Constantly learning more about **DevOps**, **cloud**, and **network security**.
 
 <h2> :rocket: &nbsp;My Skills </h3>
 
